@@ -150842,11 +150842,6 @@ microspectrophotometrically
 octamethylpyrophosphoramide
 antidisestablishmentarianism
 dichlorodiphenyltrichloroethane
-% Center.dic
-% Add-on dictionary containing the -er versions of all
-% words with -re/er variable spelling, eg  centre/center
-% Constructed from US.dic and UK.dic
-% Patrick W Daly  1998/05/19
 liter
 meter
 center
@@ -150932,11 +150927,6 @@ amphitheater
 orthocenters
 reconnoiters
 amphitheaters
-% Centre.dic
-% Add-on dictionary containing the -re versions of all
-% words with -re/er variable spelling, eg  centre/center
-% Constructed from US.dic and UK.dic
-% Patrick W Daly  1998/05/19
 litre
 metre
 centre
@@ -151022,11 +151012,6 @@ amphitheatre
 orthocentres
 reconnoitres
 amphitheatres
-% Color.dic
-% Add-on dictionary containing the -or versions of all
-% words with -or/our variable spelling, eg  color/colour
-% Constructed from US.dic and UK.dic
-% Patrick W Daly  1998/05/19
 amor
 odor
 amors
@@ -151393,11 +151378,6 @@ neighborliness
 odoriferousness
 unfavorableness
 dishonorableness
-% Colour.dic
-% Add-on dictionary containing the -our versions of all
-% words with -or/our variable spelling, eg  color/colour
-% Constructed from US.dic and UK.dic
-% Patrick W Daly  1998/05/19
 amour
 odour
 amours
@@ -151764,12 +151744,6 @@ neighbourliness
 odouriferousness
 unfavourableness
 dishonourableness
-% ise.dic
-% Add-on dictionary containing the -is versions of all
-% words with -iz/is variable spelling, realize/realise
-% Constructed from US.dic
-% Patrick W Daly  1998/03/18
-% Update 2000/03/03: move advertise to eng_com.dic; is always advertise
 iodise
 ionise
 agonise
@@ -155157,12 +155131,6 @@ microminiaturisation
 parathyroidectomised
 proindustrialisation
 internationalisations
-% ize.dic
-% Add-on dictionary containing the -iz versions of all
-% words with -iz/is variable spelling, realize/realise
-% Constructed from US.dic
-% Patrick W Daly  1998/03/18
-% Update 2000/03/03: remove advertize; is always advertise
 iodize
 ionize
 agonize
@@ -158550,12 +158518,6 @@ microminiaturization
 parathyroidectomized
 proindustrialization
 internationalizations
-% labeled.dic
-% Add-on dictionary containing the -eling and -eled versions of all
-% words with -eling/elling and -eled/elled variable spelling,
-%    eg  labeled/labelled
-% Constructed from US.dic and UK.dic
-% Patrick W Daly  1998/03/20
 dueled
 dueler
 fueled
@@ -158882,12 +158844,6 @@ semirebelious
 counselorships
 noncancelation
 precancelation
-% labelled.dic
-% Add-on dictionary containing the -elling and -elled versions of all
-% words with -eling/elling and -eled/elled variable spelling,
-%    eg  labeled/labelled
-% Constructed from US.dic and UK.dic
-% Patrick W Daly  1998/03/20
 duelled
 dueller
 fuelled
@@ -159214,11 +159170,6 @@ semirebellious
 counsellorships
 noncancellation
 precancellation
-% yse.dic
-% Add-on dictionary containing the -ys versions of all
-% words with -yz/ys variable spelling, analyse/analyze
-% Constructed from US.dic
-% Patrick W Daly  2000/03/02
 analyse
 dialyse
 analysed
@@ -159306,11 +159257,6 @@ electrolysation
 psychoanalysing
 plasmolysability
 plasmolysabilities
-% yze.dic
-% Add-on dictionary containing the -yz versions of all
-% words with -yz/ys variable spelling, analyse/analyze
-% Constructed from US.dic
-% Patrick W Daly  2000/03/02
 analyze
 dialyze
 analyzed
